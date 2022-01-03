@@ -1,12 +1,9 @@
-#  Strogonoff de Frango
+# Strogonoff de Frango
 
-- retangulo
+- retângulo
 
 - quadrado
 
-- triangulo
+- triângulo
 
   ### Modo de Preparo
-
-  
-
